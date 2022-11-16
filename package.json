@@ -1,0 +1,35 @@
+{
+  "name": "erc721categories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diego-c22/ERC721Categories.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "ERC721",
+    "Solidity",
+    "Ethereum",
+    "Binance",
+    "Polygon"
+  ],
+  "author": "Diego Cortes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diego-c22/ERC721Categories/issues"
+  },
+  "homepage": "https://github.com/Diego-c22/ERC721Categories#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "erc721a": "^4.2.3"
+  }
+}
